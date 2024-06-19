@@ -1,0 +1,2 @@
+# Laptop System Setup for Django Project
+

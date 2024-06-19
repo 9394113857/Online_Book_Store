@@ -1,0 +1,29 @@
+# Office System Setup for Django Project
+
+# Navigate to the directory where your Django project is located
+cd D:\Meghana-Code\Online_Book_Store
+
+# Optional: Navigate back to the root directory (if needed)
+cd ..
+
+# Optional: Navigate back to the root directory (if needed)
+cd ..
+
+# Activate your virtual environment (assuming it's named 'Meghana-COde-environment')
+cd .\Meghana-COde-environment\Scripts
+.\activate
+
+# Navigate back to your project directory (if needed)
+cd D:\Meghana-Code\Online_Book_Store
+
+# List the contents of the directory to verify you're in the right place
+dir
+
+# Optional: If needed, install dependencies from requirements.txt
+# pip install -r requirements.txt
+
+# Start Django development server
+python manage.py runserver
+
+# Optional: Deactivate virtual environment (if needed)
+deactivate
