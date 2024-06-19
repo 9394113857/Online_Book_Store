@@ -14,7 +14,7 @@ cd .\Meghana-COde-environment\Scripts
 .\activate
 
 # Navigate back to your project directory (if needed)
-cd D:\Meghana-Code\Online_Book_Store
+cd D:\Meghana-Code\Online_Book_Store\Online_Book_Store>
 
 # List the contents of the directory to verify you're in the right place
 dir

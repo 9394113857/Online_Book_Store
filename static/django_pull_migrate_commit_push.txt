@@ -1,0 +1,23 @@
+# Step 1: Navigate to your Django project directory
+cd D:\Meghana-Code\Online_Book_Store
+
+# Step 2: Pull changes from the remote repository (assuming 'origin' is your remote and 'master' is your branch)
+git pull origin master
+
+# Step 3: Check for any new migrations
+python manage.py showmigrations
+
+# Step 4: Apply migrations to your local database
+python manage.py migrate
+
+# Step 5: (Optional) Check if there are any issues with the migrations
+python manage.py check
+
+# Step 6: Add all changes to the staging area
+git add .
+
+# Step 7: Commit the changes with a descriptive message
+git commit -m "Applied migrations after pulling latest changes"
+
+# Step 8: Push the committed changes to the remote repository
+git push origin master
