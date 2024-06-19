@@ -1,2 +1,30 @@
 # Laptop System Setup for Django Project
 
+# Navigate to the directory where your Django project is located
+cd .\meghana-code\
+
+#######################################################################
+
+# Activate process:-
+
+# Navigate to the parent directory
+cd ..
+
+# Navigate to the virtual environment directory
+cd .\meghana-environment\
+
+# Activate the virtual environment
+cd .\Scripts\
+.\activate
+
+#######################################################################################
+
+# Go to project path process:-
+
+# Navigate back to the project root
+cd ..
+cd ..
+
+# Navigate to the project code directory
+cd .\meghana-code\
+
