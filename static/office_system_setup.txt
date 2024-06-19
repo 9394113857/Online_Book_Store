@@ -3,6 +3,10 @@
 # Navigate to the directory where your Django project is located
 cd D:\Meghana-Code\Online_Book_Store
 
+#######################################################################
+
+# Activate process:-
+
 # Optional: Navigate back to the root directory (if needed)
 cd ..
 
@@ -13,8 +17,22 @@ cd ..
 cd .\Meghana-COde-environment\Scripts
 .\activate
 
+#######################################################################################
+
+# Go to project path process:-
+
+# Optional: Navigate back to the root directory (if needed)
+cd ..
+
+# Optional: Navigate back to the root directory (if needed)
+cd ..
+
 # Navigate back to your project directory (if needed)
-cd D:\Meghana-Code\Online_Book_Store\Online_Book_Store>
+cd D:\Meghana-Code\Online_Book_Store
+
+########################################################################
+
+# This is different
 
 # List the contents of the directory to verify you're in the right place
 dir
